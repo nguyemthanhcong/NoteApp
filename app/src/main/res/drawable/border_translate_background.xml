@@ -1,0 +1,8 @@
+<!-- rounded_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFFFF" /> <!-- Màu nền trong suốt -->
+    <corners android:radius="8dp" /> <!-- Bán kính của góc -->
+    <stroke
+        android:width="2dp"
+        android:color="#0b5394" />
+</shape>
